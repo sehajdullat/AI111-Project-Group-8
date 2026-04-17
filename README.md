@@ -116,11 +116,18 @@ numpy
 
 ## 🔧 Installation & Setup
 
-### Step 1: Clone Repository
+### Step 1a: Clone Repository (OPTION A - git installed locally)
 
 ```bash
 git clone https://github.com/sehajdullat/AI111-Project-Group-8
 cd AI111-Project-Group-8
+```
+
+---
+### Step 1b: Download ZIP file of code from this Github Repo (OPTION B - Extract files and open cmd)
+
+```bash
+python -m pip install -r requirements.txt
 ```
 
 ---
