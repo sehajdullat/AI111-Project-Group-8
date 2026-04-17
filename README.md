@@ -5,6 +5,7 @@ Multi-file modular implementation of traffic signal optimization using Poisson d
 
 ## Run
 pip install -r requirements.txt
+
 python main.py
 
 ## Files
