@@ -105,7 +105,7 @@ project/
 
 ## ⚙️ Requirements
 
-* Python 3.8+
+* Python 3.8+( Must )
 * Libraries:
 
 ```bash
