@@ -120,7 +120,7 @@ numpy
 
 ```bash
 git clone https://github.com/sehajdullat/AI111-Project-Group-8
-cd traffic-ai-project
+cd AI111-Project-Group-8
 ```
 
 ---
