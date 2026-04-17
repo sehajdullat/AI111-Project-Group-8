@@ -119,7 +119,7 @@ numpy
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/your-username/traffic-ai-project.git
+git clone https://github.com/sehajdullat/AI111-Project-Group-8
 cd traffic-ai-project
 ```
 
