@@ -124,11 +124,8 @@ cd AI111-Project-Group-8
 ```
 
 ---
-### Step 1b: Download ZIP file of code from this Github Repo (OPTION B - Extract files and open cmd)
-
-```bash
-python -m pip install -r requirements.txt
-```
+### Step 1b: Download ZIP file of code from this Github Repo (OPTION B - Extract files)
+open cmd prompt in that folder
 
 ---
 
